@@ -7,4 +7,4 @@ Setting up I2C communication protocol using the M24LR04 NFC tag based X-Nucleo-N
 
 
 
-See Google Doc for full progress/explainations: https://docs.google.com/document/d/1NybxBNkSJnq6lNnZnXXWuF_Mf8UTwnK3lG1ciHXtLvk/edit?usp=sharing 
+See Google Doc for full progress/explanations: https://docs.google.com/document/d/1NybxBNkSJnq6lNnZnXXWuF_Mf8UTwnK3lG1ciHXtLvk/edit?usp=sharing 
